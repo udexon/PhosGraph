@@ -40,3 +40,7 @@ A person may not be forced to admit to, or otherwise, his (her) ownership of a p
 The state may pass laws, however, to forcibly remove servers (virtual or physical) which no human owners (including companies) have claimed ownership. 
 
 
+- https://github.com/udexon/PhosChat/blob/master/README.md
+
+- In an earlier article, we demonstrated DUA using Websocket:
+  - https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
