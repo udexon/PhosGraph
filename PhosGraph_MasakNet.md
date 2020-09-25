@@ -26,6 +26,17 @@ Experienced programmers may scream upon reading this &mdash; How on Earth is it 
 
 Welcome to Decentralized Graph Database (DGDB).
 
+In the following articles, we have demonstrated the examples of Decentralized User Authentication (DUA):
+
+- https://github.com/udexon/PhosChat/blob/master/README.md
+
+- In an earlier article, we demonstrated DUA using Websocket:
+  - https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
+
+In a previous article, we demonstrated how we implemented a JavaScript function `U()` which sends a JSON string, encoding a general data object, to the back end, which can serve as a Decentralized Graph Database (DGDB) server:
+
+- https://github.com/udexon/PhosGraph/blob/master/README.md
+
 
 
 Unique selling points:
@@ -39,8 +50,3 @@ A person may not be forced to admit to, or otherwise, his (her) ownership of a p
 
 The state may pass laws, however, to forcibly remove servers (virtual or physical) which no human owners (including companies) have claimed ownership. 
 
-
-- https://github.com/udexon/PhosChat/blob/master/README.md
-
-- In an earlier article, we demonstrated DUA using Websocket:
-  - https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
