@@ -79,15 +79,21 @@ Unique selling points:
 - Better search facilities, due to collective contributions by free software programmers. 
 
 
-Deniability and Undeniability using Asymmetric Cryptography
+8. Deniability and Undeniability using Asymmetric Cryptography
 
-A person may not be forced to admit to, or otherwise, his (her) ownership of a private key, or his (her) action of using the private key at a particular time, place or in a network connection.
+While control freaks in the current government agencies may be crying foul reading up to this point, there are good news which may pacify them:
 
-The state may pass laws, however, to forcibly remove servers (virtual or physical) which no human owners (including companies) have claimed ownership. 
+- A person may not be forced to admit to, or otherwise, his (her) ownership of a private key, or his (her) action of using the private key at a particular time, place or in a network connection.
 
+- The state may pass laws, however, to forcibly remove servers (virtual or physical) which no human owners (including companies) have claimed ownership. 
 
+What that entails is that, pockets of "unconventional military forces" may exist in "underground" within "civilized sectors" (urbanized regions) or "out in the wild" where it is off limits to conventional government forces, to be "protector of privacy". Yet, they may have their own rules.
 
+_Well, that will truly be a topic for a new type of science fictions, which we believe have not been explored before ...._
 
+But it is not science fiction really. The prospect of law enforcement agents clashing with Decentralized Graph Database systems is more real than COVID19 ....
+
+<hr>
 
 Automatic expire and purge.
 
