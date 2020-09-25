@@ -51,6 +51,20 @@ Readers may ask,
 
 ANSWER: It is special _BECAUSE the front end has been "decentrally authenticated"_. As such, the front end has been granted _the right to create data fields_, stored as an JavaScript Object.
 
+This fundamentally changes the roles of a "database management server" (DBMS), where conventionally in SQL DBMS, the data fields have been predetermined and as such, programs have been written to deal with predetermined data fields; while in DGDBMS, the server needs to deal with non-deterministic data fields.
+
+In practice, User A may enter the following JSON:
+```
+{name: 'Do Re Mi', age: 'born 1987', city: 'Ampang', 
+specialty: 'Rendang Special', fees: 'MYR 50 / hour'}
+```
+
+User B may enter the following JSON, with different "keys" (data fields) from User A:
+```
+{surname: 'Mi Fa So', age: 'born 1977', state: 'Pahang', 
+hobby: 'Running', fees: 'MYR 500 / hour'}
+```
+
 
 Unique selling points:
 - Source data from anywhere, social media, files, friend's comments, not restricted by owner of website.
