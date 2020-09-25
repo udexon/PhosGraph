@@ -1,13 +1,4 @@
-Automatic expire and purge.
-
-Each record should show last authorized time.
-
-Outlaw or ban unauthorized data servers. Servers can be removed by police if no owner claims. Claim ownership using private key.
-
-Make money from update authorization.
-
-
-MasakNet
+# PhosGraph MasakNet
 
 
 1. "Masak" is the Malay word for "cooking". The aims of this project inclulde:
@@ -73,6 +64,16 @@ DEFINITELY. However, DGDBMS itself offers a solution &mdash; delegating and dece
 
 By "delegating and decentralizing", we contrast them with conventional organization model, where only programmers hired or contracted by one or related companies may contribute to codes for processing (sort, delete, search etc.) the database. With DGDBMS, programmers who are unaffiliated with the owner of the DGDBMS server, may contribute to codes for processing the database. This is possible as unaffiliated programmers can be "decentrally authenticated" just like how the Users are. This opens up the possibilities of instead of having half a dozen programmers (say) hired or contracted by a company using SQL DBMS, literally thousands of unaffiliated but decentrally authenticated programmers may contribute to coding.
 
+
+7. _In a graph database network, there is no central authority. Every server exists as an equal peer to others._
+
+As such, the database stored on one DGDBMS server becomes yet another node from the perspective of the whole network.
+
+At present, even though MAGA+F (Microsoft Apple Google Amazon Facebook) may be running their own centralized database, when the Universal DGDBMS (U-DGDBMS) grows in size, MAGA+F will be forced to join U-DGDBMS. MAGA+F may want to retain central control to "their" data (not technically "theirs", but "users'", due to "government decrees"), but they can also create interfaces to share data with U-DGDBMS as ___EQUAL PEERS___.
+
+<hr>
+
+
 Unique selling points:
 - Source data from anywhere, social media, files, friend's comments, not restricted by owner of website.
 - Better search facilities, due to collective contributions by free software programmers. 
@@ -84,3 +85,14 @@ A person may not be forced to admit to, or otherwise, his (her) ownership of a p
 
 The state may pass laws, however, to forcibly remove servers (virtual or physical) which no human owners (including companies) have claimed ownership. 
 
+
+
+
+
+Automatic expire and purge.
+
+Each record should show last authorized time.
+
+Outlaw or ban unauthorized data servers. Servers can be removed by police if no owner claims. Claim ownership using private key.
+
+Make money from update authorization.
