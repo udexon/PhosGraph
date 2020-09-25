@@ -33,10 +33,15 @@ In the following articles, we have demonstrated the examples of Decentralized Us
 - In an earlier article, we demonstrated DUA using Websocket:
   - https://github.com/udexon/XIDT/blob/master/Greet_Secret_Phrase.md
 
-In a previous article, we demonstrated how we implemented a JavaScript function `U()` which sends a JSON string, encoding a general data object, to the back end, which can serve as a Decentralized Graph Database (DGDB) server:
+In a previous article, we demonstrated how we implemented a [JavaScript function `U()`](https://github.com/udexon/PhosGraph/blob/master/README.md#javascript-function-u-sending-json-string-to-back-end) which sends a JSON string, encoding a general data object, to the back end, which can serve as a Decentralized Graph Database (DGDB) server:
 
 - https://github.com/udexon/PhosGraph/blob/master/README.md
 
+Readers may ask,
+
+- What is so special about about [JavaScript function `U()`](https://github.com/udexon/PhosGraph/blob/master/README.md#javascript-function-u-sending-json-string-to-back-end)?
+
+ANSWER: It is special _BECAUSE the front end has been "decentrally authenticated"_. As such, the front end has been granted _the right to create data fields_, stored as an JavaScript Object.
 
 
 Unique selling points:
