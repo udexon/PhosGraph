@@ -5,6 +5,9 @@ A detailed introduction concerning the source files and basic components of Phos
 
 - https://github.com/udexon/PhosChat/blob/master/README.md
 
+
+### JavaScript function `U()`: Sending JSON String to Back End
+
 In PhosGraph, we have modified the `CHAT()` function from PhosChat to be a more general function `U()` which sends a JSON string to the back end:
 
 ```js
