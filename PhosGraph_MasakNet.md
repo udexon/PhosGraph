@@ -65,6 +65,13 @@ User B may enter the following JSON, with different "keys" (data fields) from Us
 hobby: 'Running', fees: 'MYR 500 / hour'}
 ```
 
+6. Readers may ask,
+
+- Based on the examples of data by User A and User B, does it not make it more complicated to process such non-deterministic data?
+
+DEFINITELY. However, DGDBMS itself offers a solution &mdash; delegating and decentralizing contributions by programmers.
+
+By "delegating and decentralizing", we contrast them with conventional organization model, where only programmers hired or contracted by one or related companies may contribute to codes for processing (sort, delete, search etc.) the database. With DGDBMS, programmers who are unaffiliated with the owner of the DGDBMS server, may contribute to codes for processing the database. This is possible as unaffiliated programmers can be "decentrally authenticated" just like how the Users are. This opens up the possibilities of instead of having half a dozen programmers (say) hired or contracted by a company using SQL DBMS, literally thousands of unaffiliated but decentrally authenticated programmers may contribute to coding.
 
 Unique selling points:
 - Source data from anywhere, social media, files, friend's comments, not restricted by owner of website.
