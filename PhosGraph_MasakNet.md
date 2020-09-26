@@ -1,4 +1,4 @@
-# PhosGraph MasakNet
+# PhosGraph, MasakNet and the Matrix
 
 
 1. "Masak" is the Malay word for "cooking". The aims of this project inclulde:
@@ -71,15 +71,31 @@ As such, the database stored on one DGDBMS server becomes yet another node from 
 
 At present, even though MAGA+F (Microsoft Apple Google Amazon Facebook) may be running their own centralized database, when the Universal DGDBMS (U-DGDBMS) grows in size, MAGA+F will be forced to join U-DGDBMS. MAGA+F may want to retain central control to "their" data (not technically "theirs", but "users'", due to "government decrees"), but they can also create interfaces to share data with U-DGDBMS as ___EQUAL PEERS___.
 
+
+8. Unique selling points of PhosGraph:
+- Users may source data from anywhere: social media, files on computers or mobile devices, friend's comments &mdash; not restricted by owner of website.
+- Better search facilities / functions, due to collective contributions by free software programmers. 
+
+__BETTER THAN GOOGLE SEARCH ENGINE__ &mdash; will be PhosGraph's motto.
+
+
+9. The ___DECENTRALIZED___ nature of user data, i.e. Users have full control on their own data instead of centralized servers in conventional DBMS models, produces many new possibilities and new use cases:
+
+- Automatic expiration of user data and purging: which may be useful if users wish their data to be "forgotten".
+
+Each record stored in PhosGraph servers (nodes) should have a last authorized time &mdash; time at which a PhosGraph node obtain authorization from the user to retain the record.
+
+In accordance to the new trend of eliminating the usage of using black and white to describe bad or good servers, we shall designate PhosGraph servers with StarWars conventions, as Phos itself means "light":
+
+- ___PhosPlus servers___: Servers which comply to users requests, possible maintained by a user elected foundation or committee, much like the Linux Foundation or Free Software Foundation. i.e. If ___Phos Foundation___ mandate that PhosPlus servers shall comply to rules where user data need to be purged after a certain period of time, Phos Foundation shall maintain a list of PhosPlus servers, and outlaw those violating servers as ___DARK servers___.
+
+- Revenues can be generated for individual users from authorization of user data. This is a BIG PLUS as without PhosGraph, MAGA+F are making trillions of dollars annually without distributing their profits to the users whose data they exploit!!
+
+
 <hr>
 
 
-Unique selling points:
-- Source data from anywhere, social media, files, friend's comments, not restricted by owner of website.
-- Better search facilities, due to collective contributions by free software programmers. 
-
-
-8. Deniability and Undeniability using Asymmetric Cryptography
+10. Deniability and Undeniability using Asymmetric Cryptography
 
 While control freaks in the current government agencies may be crying foul reading up to this point, there are good news which may pacify them:
 
@@ -89,16 +105,8 @@ While control freaks in the current government agencies may be crying foul readi
 
 What that entails is that, pockets of "unconventional military forces" may exist in "underground" within "civilized sectors" (urbanized regions) or "out in the wild" where it is off limits to conventional government forces, to be "protector of privacy". Yet, they may have their own rules.
 
-_Well, that will truly be a topic for a new type of science fictions, which we believe have not been explored before ...._
+_Well, that will truly be a topic for a new type of science fictions, which we believe have not been explored before .... The Matrix perhaps? ...._
 
 But it is not science fiction really. The prospect of law enforcement agents clashing with Decentralized Graph Database systems is more real than COVID19 ....
 
 <hr>
-
-Automatic expire and purge.
-
-Each record should show last authorized time.
-
-Outlaw or ban unauthorized data servers. Servers can be removed by police if no owner claims. Claim ownership using private key.
-
-Make money from update authorization.
