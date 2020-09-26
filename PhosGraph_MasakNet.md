@@ -56,6 +56,11 @@ User B may enter the following JSON, with different "keys" (data fields) from Us
 hobby: 'Running', fees: 'MYR 500 / hour'}
 ```
 
+- At the moment, PhosGraph still lack a GUI. This again is related to PhosWeb module development. 
+
+_Do please contact us if you wish to contribute!!_
+
+
 6. Readers may ask,
 
 - Based on the examples of data by User A and User B, does it not make it more complicated to process such non-deterministic data?
